@@ -1,6 +1,6 @@
 # Hi I'm Andrew Pinon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width="100%" src="https://giphy.com/gifs/FPbnShq1h1IS5FQyPD/html5" />
+<img width="100%" height="500px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
 ## I do FullStack Web Development
 
