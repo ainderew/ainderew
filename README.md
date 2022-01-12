@@ -4,11 +4,6 @@
 <img align="center" width="400px" height="300px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 </p>
 
-## I do FullStack Web Development
-
-- 👨‍🎨 I like working on the front-end
-- 👨‍🔧 But I still can get around on the back-end
-- 🌱 I’m currently learning GraphQL and Gatsby
 
 ## Languages Frameworks and Tools: 
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
