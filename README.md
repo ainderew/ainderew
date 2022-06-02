@@ -1,4 +1,4 @@
-# Hi I'm Andrew Pinon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px height="10px">
+# Hi I'm Andrew Pinon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px">
 
 <p align="center">
 <img align="center" width="400px" height="300px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
