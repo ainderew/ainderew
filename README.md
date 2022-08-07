@@ -13,7 +13,7 @@
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/FFFFFF/nextjs.png"/>
 
  
  
