@@ -5,18 +5,22 @@
 </p>
 
 
-## Languages Frameworks and Tools: 
-<img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+## Languages Frameworks and Tools That I Like Using: 
 <img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
+<img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/typescript.png"/>
 <img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
  
  
 <br />
 <br />
+
+Currently I work at Theoria Medical as a Full-stack Dev :)
 
 <!--
 **ainderew/ainderew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
