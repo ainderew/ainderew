@@ -1,5 +1,5 @@
 # Hi I'm Andrew Pinon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-### Currently working @Theoria
+### Currently working Fullstack Developer @Theoria
 
 <p align="center">
 <img align="center" width="400px" height="300px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
@@ -23,7 +23,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Currently I work at Theoria Medical as a Full-stack Dev :)
 
 <!--
 **ainderew/ainderew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
