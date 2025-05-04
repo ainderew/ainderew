@@ -6,17 +6,6 @@
 </p>
 
 
-## Languages Frameworks and Tools That I Like Using: 
-<img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-<img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
-<img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/typescript.png"/>
-<img align="left" alt="SCSS" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/FFFFFF/nextjs.png"/>
-
  
  
 <br />
