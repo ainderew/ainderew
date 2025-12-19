@@ -19,9 +19,9 @@
 
 <div align="center">
 
-[![WorkDash](https://cdn.statically.io/gh/ainderew/Workdash@main/workdash.png)](https://github.com/ainderew/Workdash)
+[![WorkDash](https://cdn.statically.io/gh/ainderew/ainderew@main/workdash.png)](https://github.com/ainderew/Workdash)
 
-**A productivity dashboard built to streamline your workflow**
+**Helping work-from-home teams communicate in a more interactive way through supports video and audio chat as well as screenshare [WorkDash](https://workdash.site)**
 
 [![Stars](https://img.shields.io/github/stars/ainderew/Workdash?style=social)](https://github.com/ainderew/Workdash)
 [![Forks](https://img.shields.io/github/forks/ainderew/Workdash?style=social)](https://github.com/ainderew/Workdash)
