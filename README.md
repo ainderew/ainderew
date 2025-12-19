@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![WorkDash](https://cdn.statically.io/gh/ainderew/ainderew@main/workdash.png)](https://github.com/ainderew/Workdash)
+[![WorkDash](https://cdn.statically.io/gh/ainderew/ainderew@master/workdash.png)](https://github.com/ainderew/Workdash)
 
 **Helping work-from-home teams communicate in a more interactive way through supports video and audio chat as well as screenshare [WorkDash](https://workdash.site)**
 
