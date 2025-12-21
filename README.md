@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=ainderew&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="400" height="300" />
-
 </div>
 
 ---
