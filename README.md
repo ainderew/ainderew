@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[!WorkDash](https://raw.githubusercontent.com/ainderew/Workdash/refs/heads/main/workdash.png)
+[WorkDash](https://raw.githubusercontent.com/ainderew/Workdash/refs/heads/main/workdash.png)
 
 **Helping work-from-home teams communicate in a more interactive way through support video and audio chat as well as screenshare [WorkDash](https://workdash.site)**
 
